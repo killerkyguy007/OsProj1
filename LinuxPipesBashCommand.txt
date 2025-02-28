@@ -1,0 +1,1 @@
+cat fileName.txt | tr 'A-Z' 'a-z' | wc
